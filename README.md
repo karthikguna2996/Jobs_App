@@ -38,17 +38,15 @@ https://github.com/user-attachments/assets/88ef1612-1dda-44ab-a9ea-5babea4ed491
 ## 🛠️ Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/react-native-jobs-app.git
+   git clone https://github.com/karthikguna2996/Jobs_App
 
 2. **Install dependencies**:
    ```bash
    npm install
-    # or
-   yarn install
 
 3. **Run the app**:
     ```bash
-   expo start
+   npm start
 
 Scan the QR code with Expo Go app (Android/iOS)
 
